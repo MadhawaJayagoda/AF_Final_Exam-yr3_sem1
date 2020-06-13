@@ -1,0 +1,13 @@
+
+.addPlace{
+    width: 8rem;
+    height: 8rem;
+    border-radius: 10px;
+    font-size: xx-large;
+}
+
+.addPlace:hover{
+    background-color: #4CAF50;
+    color: white;
+    transform: scale(1.1, 1.1);
+}
